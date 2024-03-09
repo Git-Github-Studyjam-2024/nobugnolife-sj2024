@@ -73,6 +73,26 @@ namespace practice_github_with_CSharp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Duy_About {
+            get {
+                object obj = ResourceManager.GetObject("Duy_About", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Duy_About1 {
+            get {
+                object obj = ResourceManager.GetObject("Duy_About1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap GDSCHCMUTE_LOGO_Horizontal_White {
             get {
                 object obj = ResourceManager.GetObject("GDSCHCMUTE_LOGO_Horizontal_White", resourceCulture);
