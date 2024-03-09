@@ -60,6 +60,30 @@
     <Compile Include="UserControls\UC_ABOUT.Designer.cs">
       <DependentUpon>UC_ABOUT.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserControls\UC_ABOUT_CT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_CT.Designer.cs">
+      <DependentUpon>UC_ABOUT_CT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_DP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_DP.Designer.cs">
+      <DependentUpon>UC_ABOUT_DP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_TD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_TD.Designer.cs">
+      <DependentUpon>UC_ABOUT_TD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_VP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_VP.Designer.cs">
+      <DependentUpon>UC_ABOUT_VP.cs</DependentUpon>
+    </Compile>
     <Compile Include="UserControls\UC_CONTACT.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -87,6 +111,18 @@
     </Compile>
     <EmbeddedResource Include="UserControls\UC_ABOUT.resx">
       <DependentUpon>UC_ABOUT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_ABOUT_CT.resx">
+      <DependentUpon>UC_ABOUT_CT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_ABOUT_DP.resx">
+      <DependentUpon>UC_ABOUT_DP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_ABOUT_TD.resx">
+      <DependentUpon>UC_ABOUT_TD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_ABOUT_VP.resx">
+      <DependentUpon>UC_ABOUT_VP.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControls\UC_CONTACT.resx">
       <DependentUpon>UC_CONTACT.cs</DependentUpon>

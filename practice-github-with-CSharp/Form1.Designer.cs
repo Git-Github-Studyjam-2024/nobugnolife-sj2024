@@ -62,12 +62,12 @@
             // btnExit
             // 
             this.btnExit.BackColor = System.Drawing.Color.Red;
-            this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExit.ForeColor = System.Drawing.Color.White;
-            this.btnExit.Location = new System.Drawing.Point(975, 11);
+            this.btnExit.Location = new System.Drawing.Point(960, 0);
             this.btnExit.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(44, 37);
+            this.btnExit.Size = new System.Drawing.Size(71, 60);
             this.btnExit.TabIndex = 2;
             this.btnExit.Text = "X";
             this.btnExit.UseVisualStyleBackColor = false;
@@ -137,7 +137,7 @@
             // 
             this.pnlUC.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.pnlUC.Location = new System.Drawing.Point(0, 133);
-            this.pnlUC.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pnlUC.Margin = new System.Windows.Forms.Padding(4);
             this.pnlUC.Name = "pnlUC";
             this.pnlUC.Size = new System.Drawing.Size(1031, 480);
             this.pnlUC.TabIndex = 6;

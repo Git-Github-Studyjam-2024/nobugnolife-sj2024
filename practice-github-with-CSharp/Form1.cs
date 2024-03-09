@@ -31,6 +31,9 @@ namespace practice_github_with_CSharp
             tabContact.FlatStyle = FlatStyle.Flat;
             tabContact.FlatAppearance.BorderSize = 0;
 
+            tabHome.BackColor = Color.FromArgb(0, 0, 0);
+            tabHome.ForeColor = Color.FromArgb(255, 255, 255);
+
             UC_HOME uc_home = new UC_HOME();
             AddControlsToPanel(uc_home);
         }
