@@ -83,6 +83,26 @@ namespace practice_github_with_CSharp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap github_6980894_1280 {
+            get {
+                object obj = ResourceManager.GetObject("github-6980894_1280", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap githublogo {
+            get {
+                object obj = ResourceManager.GetObject("githublogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap h1CBC93F0 {
             get {
                 object obj = ResourceManager.GetObject("h1CBC93F0", resourceCulture);
@@ -106,6 +126,16 @@ namespace practice_github_with_CSharp.Properties {
         internal static System.Drawing.Bitmap logo_gitgithub_3x {
             get {
                 object obj = ResourceManager.GetObject("logo_gitgithub@3x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logofb {
+            get {
+                object obj = ResourceManager.GetObject("logofb", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

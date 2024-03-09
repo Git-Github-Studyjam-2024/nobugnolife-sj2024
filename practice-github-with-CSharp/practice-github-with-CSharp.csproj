@@ -144,6 +144,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assests\github-6980894_1280.png" />
+    <Content Include="Assests\logofb.png" />
+    <Content Include="Assests\githublogo.png" />
     <None Include="Assests\Phương2.jpg" />
     <None Include="Assests\Thanh.jpg" />
     <None Include="Assests\Phương.jpg" />

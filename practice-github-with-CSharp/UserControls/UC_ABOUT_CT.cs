@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,17 @@ namespace practice_github_with_CSharp.UserControls
         public UC_ABOUT_CT()
         {
             InitializeComponent();
+        }
+
+  
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Process.Start("https://www.facebook.com/profile.php?id=100045384972926");
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            Process.Start("https://github.com/lightningflashh");
         }
     }
 }

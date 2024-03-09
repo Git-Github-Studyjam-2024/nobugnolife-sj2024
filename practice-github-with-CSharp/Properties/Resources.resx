@@ -118,6 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Phương2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assests\Phương2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="h1CBC93F01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assests\h1CBC93F0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -130,19 +133,25 @@
   <data name="Phát" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assests\Phát.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Thanh" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assests\Thanh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Duy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assests\Duy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logofb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assests\logofb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="h1CBC93F0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assests\h1CBC93F0.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Duy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assests\Duy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="githublogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assests\githublogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Thanh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assests\Thanh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Phương" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assests\Phương.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Phương2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assests\Phương2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="github-6980894_1280" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assests\github-6980894_1280.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
