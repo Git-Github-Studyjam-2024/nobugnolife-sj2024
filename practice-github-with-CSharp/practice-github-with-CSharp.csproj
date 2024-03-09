@@ -54,6 +54,51 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\UC_ABOUT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT.Designer.cs">
+      <DependentUpon>UC_ABOUT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_CT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_CT.Designer.cs">
+      <DependentUpon>UC_ABOUT_CT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_DP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_DP.Designer.cs">
+      <DependentUpon>UC_ABOUT_DP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_TD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_TD.Designer.cs">
+      <DependentUpon>UC_ABOUT_TD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_VP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_ABOUT_VP.Designer.cs">
+      <DependentUpon>UC_ABOUT_VP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UC_CONTACT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_CONTACT.Designer.cs">
+      <DependentUpon>UC_CONTACT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UC_HOME.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UC_HOME.Designer.cs">
+      <DependentUpon>UC_HOME.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,7 +107,29 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UserControls\UC_ABOUT.resx">
+      <DependentUpon>UC_ABOUT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_ABOUT_CT.resx">
+      <DependentUpon>UC_ABOUT_CT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_ABOUT_DP.resx">
+      <DependentUpon>UC_ABOUT_DP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_ABOUT_TD.resx">
+      <DependentUpon>UC_ABOUT_TD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_ABOUT_VP.resx">
+      <DependentUpon>UC_ABOUT_VP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_CONTACT.resx">
+      <DependentUpon>UC_CONTACT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UC_HOME.resx">
+      <DependentUpon>UC_HOME.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -75,6 +142,17 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assests\Phương2.jpg" />
+    <None Include="Assests\Thanh.jpg" />
+    <None Include="Assests\Phương.jpg" />
+    <None Include="Assests\Duy.jpg" />
+    <Content Include="Assests\GDSCHCMUTE_LOGO_Horizontal_White.png" />
+    <Content Include="Assests\h1CBC93F0.ico" />
+    <None Include="Assests\h1CBC93F0.png" />
+    <Content Include="Assests\logo_gitgithub%403x.png" />
+    <None Include="Assests\Phát.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

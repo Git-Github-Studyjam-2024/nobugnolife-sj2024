@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Personal Folder\\nobugnolife-sj2024\\practice-github\\nobugnolife-sj2024\\practice-github-with-CSharp\\",
+  "WorkspaceRootPath": "D:\\OneDrive\\Documents\\myProject\\NoBugNoLife\\nobugnolife-sj2024\\practice-github-with-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFDD5607-3C81-42C0-B7D6-3AE8D94EB766}|practice-github-with-CSharp.csproj|c:\\personal folder\\nobugnolife-sj2024\\practice-github\\nobugnolife-sj2024\\practice-github-with-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CFDD5607-3C81-42C0-B7D6-3AE8D94EB766}|practice-github-with-CSharp.csproj|d:\\onedrive\\documents\\myproject\\nobugnolife\\nobugnolife-sj2024\\practice-github-with-csharp\\usercontrols\\uc_about_vp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFDD5607-3C81-42C0-B7D6-3AE8D94EB766}|practice-github-with-CSharp.csproj|solutionrelative:usercontrols\\uc_about_vp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDD5607-3C81-42C0-B7D6-3AE8D94EB766}|practice-github-with-CSharp.csproj|d:\\onedrive\\documents\\myproject\\nobugnolife\\nobugnolife-sj2024\\practice-github-with-csharp\\usercontrols\\uc_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDD5607-3C81-42C0-B7D6-3AE8D94EB766}|practice-github-with-CSharp.csproj|solutionrelative:usercontrols\\uc_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDD5607-3C81-42C0-B7D6-3AE8D94EB766}|practice-github-with-CSharp.csproj|d:\\onedrive\\documents\\myproject\\nobugnolife\\nobugnolife-sj2024\\practice-github-with-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDD5607-3C81-42C0-B7D6-3AE8D94EB766}|practice-github-with-CSharp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDD5607-3C81-42C0-B7D6-3AE8D94EB766}|practice-github-with-CSharp.csproj|d:\\onedrive\\documents\\myproject\\nobugnolife\\nobugnolife-sj2024\\practice-github-with-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CFDD5607-3C81-42C0-B7D6-3AE8D94EB766}|practice-github-with-CSharp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,13 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Personal Folder\\nobugnolife-sj2024\\practice-github\\nobugnolife-sj2024\\practice-github-with-CSharp\\Form1.cs",
+              "Title": "UC_ABOUT_VP.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\myProject\\NoBugNoLife\\nobugnolife-sj2024\\practice-github-with-CSharp\\UserControls\\UC_ABOUT_VP.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_ABOUT_VP.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\myProject\\NoBugNoLife\\nobugnolife-sj2024\\practice-github-with-CSharp\\UserControls\\UC_ABOUT_VP.cs [Design]",
+              "RelativeToolTip": "UserControls\\UC_ABOUT_VP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T02:52:20.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\myProject\\NoBugNoLife\\nobugnolife-sj2024\\practice-github-with-CSharp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Personal Folder\\nobugnolife-sj2024\\practice-github\\nobugnolife-sj2024\\practice-github-with-CSharp\\Form1.cs [Design]",
+              "ToolTip": "D:\\OneDrive\\Documents\\myProject\\NoBugNoLife\\nobugnolife-sj2024\\practice-github-with-CSharp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA9wCIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T02:42:28.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_ABOUT.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\myProject\\NoBugNoLife\\nobugnolife-sj2024\\practice-github-with-CSharp\\UserControls\\UC_ABOUT.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_ABOUT.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\myProject\\NoBugNoLife\\nobugnolife-sj2024\\practice-github-with-CSharp\\UserControls\\UC_ABOUT.cs",
+              "RelativeToolTip": "UserControls\\UC_ABOUT.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwF0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T02:42:17.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\myProject\\NoBugNoLife\\nobugnolife-sj2024\\practice-github-with-CSharp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\myProject\\NoBugNoLife\\nobugnolife-sj2024\\practice-github-with-CSharp\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T04:52:00.633Z",
+              "WhenOpened": "2024-03-09T02:35:37.227Z",
               "EditorCaption": " [Design]"
             }
           ]
