@@ -1,0 +1,13 @@
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\bin\Debug\practice-github-with-CSharp.exe.config
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\bin\Debug\practice-github-with-CSharp.exe
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\bin\Debug\practice-github-with-CSharp.pdb
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.Form1.resources
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.Properties.Resources.resources
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.csproj.GenerateResource.cache
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.exe
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.pdb
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_HOME.resources
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT.resources
+D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_CONTACT.resources
