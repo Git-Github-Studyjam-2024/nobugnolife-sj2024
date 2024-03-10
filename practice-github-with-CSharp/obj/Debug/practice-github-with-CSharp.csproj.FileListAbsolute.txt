@@ -15,20 +15,20 @@ D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-w
 D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_DP.resources
 D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_TD.resources
 D:\OneDrive\Documents\myProject\NoBugNoLife\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_VP.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\bin\Debug\practice-github-with-CSharp.exe.config
-D:\nobugnolife-sj2024\practice-github-with-CSharp\bin\Debug\practice-github-with-CSharp.exe
-D:\nobugnolife-sj2024\practice-github-with-CSharp\bin\Debug\practice-github-with-CSharp.pdb
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.csproj.AssemblyReference.cache
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.Form1.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.Properties.Resources.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_CT.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_DP.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_TD.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_VP.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_CONTACT.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_HOME.resources
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.csproj.GenerateResource.cache
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.csproj.CoreCompileInputs.cache
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.exe
-D:\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.pdb
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\bin\Debug\practice-github-with-CSharp.exe.config
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\bin\Debug\practice-github-with-CSharp.exe
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\bin\Debug\practice-github-with-CSharp.pdb
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.csproj.AssemblyReference.cache
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.Form1.resources
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.Properties.Resources.resources
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT.resources
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_CT.resources
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_DP.resources
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_TD.resources
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_ABOUT_VP.resources
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_CONTACT.resources
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice_github_with_CSharp.UserControls.UC_HOME.resources
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.csproj.GenerateResource.cache
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.csproj.CoreCompileInputs.cache
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.exe
+C:\Personal Folder\nobugnolife-sj2024\practice-github-with-CSharp\obj\Debug\practice-github-with-CSharp.pdb
