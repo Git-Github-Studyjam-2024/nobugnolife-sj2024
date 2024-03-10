@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\practice-github-with-CSharp"
+    "\\practice-github-with-CSharp",
+    "\\practice-github-with-CSharp\\UserControls"
   ],
+  "SelectedNode": "\\practice-github-with-CSharp\\Form1.resx",
   "PreviewInSolutionExplorer": false
 }
